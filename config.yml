@@ -1,4 +1,5 @@
 baseURL: 'https://lapislasure.github.io/lapislasure.github.io/'
 languageCode: en-us
 title: My New Hugo Site
-theme: "PaperMod"
+theme: monday-theme
+relativeURLs: true

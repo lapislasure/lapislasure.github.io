@@ -13,7 +13,8 @@
       <pubDate>Tue, 28 Nov 2023 19:45:38 +0300</pubDate>
       
       <guid>https://lapislasure.github.io/posts/post1/</guid>
-      <description>Lorem ipsum</description>
+      <description>Lorem ipsum
+Here is an example equation: $f(x) = \int_{-\infty}^\infty \hat f(\xi)e^{2 \pi i \xi x} d\xi$</description>
     </item>
     
   </channel>

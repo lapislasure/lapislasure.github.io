@@ -3,3 +3,8 @@ languageCode: en-us
 title: Lapis Lasure Homepage
 theme: monday-theme
 relativeURLs: true
+
+params:
+  social:
+    icon: telegram
+    link: 'https://t.me/lapislasure'

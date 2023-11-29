@@ -5,3 +5,5 @@ draft = false
 +++
 
 Lorem ipsum
+
+Here is an example equation: $f(x) = \int_{-\infty}^\infty \hat f(\xi)e^{2 \pi i \xi x} d\xi$

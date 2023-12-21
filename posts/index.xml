@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lapis Lasure Homepage</title>
+    <title>Posts on 🔷 Lapis Lasure Homepage</title>
     <link>https://lapislasure.github.io/posts/</link>
-    <description>Recent content in Posts on Lapis Lasure Homepage</description>
+    <description>Recent content in Posts on 🔷 Lapis Lasure Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2023 19:45:38 +0300</lastBuildDate><atom:link href="https://lapislasure.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 23:24:05 +0300</lastBuildDate><atom:link href="https://lapislasure.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>https://lapislasure.github.io/posts/post2/</link>
+      <pubDate>Tue, 05 Dec 2023 23:24:05 +0300</pubDate>
+      
+      <guid>https://lapislasure.github.io/posts/post2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat tempor velit. Duis eu imperdiet odio. Morbi feugiat, dolor nec volutpat consequat, sem magna pretium erat, sed dictum enim sem eu ante. Duis pellentesque fringilla tellus, ut interdum lacus eleifend ac. Quisque velit dui, accumsan fringilla blandit at, efficitur a sem. Nunc diam justo, hendrerit at tincidunt ut, consectetur sit amet purus. Proin tristique, turpis at placerat mattis, metus odio placerat libero, a porta urna justo sed neque.</description>
+    </item>
+    
     <item>
       <title>Post1</title>
       <link>https://lapislasure.github.io/posts/post1/</link>
